@@ -1,0 +1,3 @@
+include ':DisplayJavaJoke'
+include ':JavaJokeLibrary'
+include ':app', ':backend'
